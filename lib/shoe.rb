@@ -13,4 +13,3 @@
 
 end
 
-Shoe.new("Nike")
